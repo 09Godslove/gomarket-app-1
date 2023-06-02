@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Go-market app
+          React Go-market app test
         </a>
       </header>
     </div>
